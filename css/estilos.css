@@ -15,9 +15,13 @@
   margin-left: 10px;
 }
 
-.fa-edit {
+.profile-edit {
   color: white;
   margin-top: 35px;
+}
+
+.fa-edit, .fa-plus {
+  color: white;
 }
 
 .card_title {
